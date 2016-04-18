@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/css/main.css" >
+    <link href='https://fonts.googleapis.com/css?family=Roboto|Lora' rel='stylesheet' type='text/css'>
+    <title>Text to Binary Converter</title>
+  </head>
+  <body>
+    <section class="container">
+
+      <h1 class="header1">Text to Binary Converter, or Other Languages</h1>
+      <p>
+        Write some text in the textbox, and click on hex, octal or binary to see it transform!!!
+      </p>
+      <section class="input-container">
+        <span>Enter Text Here: </span><input id="input" class="input" />
+        <span>See Result Here:</span><input id="output" class="output" /><br>
+      </section>
+      <section class="button-container">
+        <button class="button-1" onclick="biConvert();">Go Binary!</button><br>
+        <button class="button-2" onclick="octConvert();">Go Octal!</button><br>
+        <button class="button-3" onclick="hexConvert();">Go Hex!</button><br>
+      </section>
+    </section>
+
+    <script src="/js/app.js"></script>
+  </body>
+</html>
