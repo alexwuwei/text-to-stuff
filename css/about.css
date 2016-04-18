@@ -1,0 +1,81 @@
+.button-1:hover {
+    background-color: #B20400;
+    border: none;
+    color: black;
+    padding: 14px 31px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /*box-shadow: 3px 3px 1px #888888;*/
+    cursor: pointer;
+}
+
+.button-1 {
+    background-color: #B20400;
+    border: none;
+    color: black;
+    padding: 12px 29px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 3px 3px 1px #888888;
+    margin-left: 2%;
+}
+
+
+.button-2:hover {
+  background-color: #02B23B;
+  border: none;
+  color: white;
+  padding: 16px 33px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  /*box-shadow: 3px 3px 1px #888888;*/
+}
+
+.button-2 {
+    background-color: #02B23B;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 3px 3px 1px #888888;
+}
+
+.button-3:hover {
+    background-color: #0B7EB2;
+    border: none;
+    color: white;
+    padding: 16px 33px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 3px 3px 1px #888888;
+    cursor: pointer;
+}
+
+.red-button {
+    background-color: #0B7EB2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 3px 3px 1px #888888;
+    margin-left: 2%;
+}
